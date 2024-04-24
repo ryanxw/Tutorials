@@ -1,6 +1,6 @@
 # Advancing Quantum Applications: Design of Hybrid Quantum-Classical Applications and Quantum Random Access Memory @ ASPLOS'24
 
-_[Xin-Chuan (Ryan) Wu](https://www.xinchuanwu.com/), Shavindra Premaratne, Kevin Rasch, Yongshan Ding_
+_[Xin-Chuan (Ryan) Wu](https://www.xinchuanwu.com/), Shavindra Premaratne, Kevin Rasch, [Yongshan Ding](https://www.yongshanding.com/)_
 
 ## Date
 Saturday, April 27th, 2024
