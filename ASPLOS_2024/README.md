@@ -16,7 +16,7 @@ Saturday, April 27th, 2024
 
 10:30 - 11:15 Shavindra Premaratne: Execution of quantum algorithms using the Intel® Quantum SDK
 
-11:15 - 12:00 Panel: Pushing the Boundaries of Research and Innovation
+11:15 - 12:00 Panel Discussion: Pushing the Boundaries of Research and Innovation
 
 
 ## Abstract
